@@ -1,6 +1,6 @@
 # C / C++ / DS
 
-This repository serves as a progress tracker for my programming journey in C, C++, and Data Structures. It also allows me to compare my code across different points in time.
+Hello,This repository serves as a progress tracker for my programming journey in C, C++, and Data Structures. It also allows me to compare my code across different points in time.
 
 ## Purpose
 
